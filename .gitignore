@@ -2,10 +2,4 @@
 .cache
 __pycache__/
 downloads/
-temp/
 songs.db
-song.mp3
-test_db.py
-test_mp3.py
-test.py
-sample.py
