@@ -158,31 +158,6 @@ You should see a confirmation in your terminal that the bot has started polling 
 
 ---
 
-## 📂 Folder Structure
-
-```text
-Playlist_pirate/
-├── bot.py                  # Main entry point — Telegram bot handlers
-├── config.py                # Environment variable & config loader
-├── spotify/
-│   └── spotify_client.py    # Spotify API integration (Spotipy)
-├── youtube/
-│   └── downloader.py        # YouTube search & yt-dlp download logic
-├── storage/
-│   ├── s3_client.py         # AWS S3 upload/download logic
-│   └── cache_db.py          # SQLite caching layer
-├── utils/
-│   └── helpers.py           # Shared utility functions
-├── temp/                     # Temporary audio files (auto-cleaned)
-├── requirements.txt
-├── .env.example
-└── README.md
-```
-
-> 📝 Structure is a simplified reference — update it to match your actual repository layout.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated! To contribute:
