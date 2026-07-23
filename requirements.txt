@@ -1,0 +1,6 @@
+python-telegram-bot
+spotipy
+yt-dlp
+boto3
+python-dotenv
+requests
