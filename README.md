@@ -10,13 +10,6 @@
   <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/riyalawrance/Playlist_pirate?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/issues/riyalawrance/Playlist_pirate?style=flat-square" alt="Open Issues">
-  <img src="https://img.shields.io/github/stars/riyalawrance/Playlist_pirate?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/last-commit/riyalawrance/Playlist_pirate?style=flat-square" alt="Last Commit">
-</p>
-
 ---
 
 ## 📖 About
