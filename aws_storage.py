@@ -7,7 +7,8 @@ s3 = boto3.client(
     aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY")
 )
 
-BUCKET = "playlist-pirate-tele"
+BUCKET = os.getenv("AWS_BUCKET_NAME")
+REGION = os.getenv("AWS_REGION")
 
 
 def song_exists(spotify_id):
